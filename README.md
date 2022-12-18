@@ -1,5 +1,6 @@
-# Simple Java Application using maven
+# Simple Maven Project Template
 
+This project can be used as template to crate simple java applications. <br>
 Clone this project and change the name.
 
 Create maven run configuration with following maven command:
